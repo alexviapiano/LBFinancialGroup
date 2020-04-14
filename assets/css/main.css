@@ -3657,7 +3657,7 @@ input, select, textarea {
 
 		@media screen and (min-width: 1280px) {
 			.wrapper.alt.style1:after { 
-				background-color: #26272999;
+				background-color: #26272975;
 			}
 		}
 
@@ -3675,13 +3675,13 @@ input, select, textarea {
 
 		@media screen and (max-width: 736px) {
 			.wrapper.alt.style2 { 
-				border-bottom: #26272999 1px solid !important;
+				border-bottom: #26272975 1px solid !important;
 			}
 		}
 
 		@media screen and (max-width: 736px) {
 			.wrapper.alt.style1 { 
-				border-top: #26272999 1px solid !important;
+				border-top: #26272975 1px solid !important;
 			}
 		}
 
