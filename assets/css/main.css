@@ -3587,7 +3587,7 @@ input, select, textarea {
 
 		#wrapper > header {
 			padding: 6.5em 2em 3em 2em ;
-			background-size: auto, 125%;
+			/* background-size: auto, 125%; */
 			margin-bottom: -2.5em;
 		}
 
