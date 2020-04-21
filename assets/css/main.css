@@ -3649,6 +3649,10 @@ input, select, textarea {
 			left: 0;
 		}
 
+		.flat-bottom.wrapper:after {
+			background: #262729;
+		}
+
 		.wrapper.alt:before {
 			-moz-transform: scaleX(-1);
 			-webkit-transform: scaleX(-1);
