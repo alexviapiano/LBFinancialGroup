@@ -3856,6 +3856,18 @@ input, select, textarea {
 					background-color: #26272975;
 				}
 
+				@media screen and (min-width: 1470px) {
+					.wrapper.spotlight.style2:after {
+						margin-bottom: 1px;
+					}
+				}
+
+				@media screen and (min-width: 980px) and (max-width: 1470px) {
+					.wrapper.spotlight.style2:after {
+						margin-bottom: 1px !important;
+					}
+				}
+
 			.wrapper.spotlight.style3 {
 				background-color: #26272975;
 			}
